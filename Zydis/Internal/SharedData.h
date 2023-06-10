@@ -28,7 +28,7 @@
 #define ZYDIS_INTERNAL_SHAREDDATA_H
 
 #include <Zycore/Defines.h>
-#include <Zydis/Mnemonic.h>
+#include <Zydis/TWMnemonic.h>
 #include <Zydis/Register.h>
 #include <Zydis/SharedTypes.h>
 #include <Zydis/DecoderTypes.h>

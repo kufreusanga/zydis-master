@@ -34,7 +34,7 @@
 
 #include <Zycore/Types.h>
 #include <Zydis/MetaInfo.h>
-#include <Zydis/Mnemonic.h>
+#include <Zydis/TWMnemonic.h>
 #include <Zydis/Register.h>
 #include <Zydis/SharedTypes.h>
 

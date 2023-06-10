@@ -36,7 +36,7 @@
 #include <Zydis/MetaInfo.h>
 #include <Zydis/Register.h>
 #include <Zydis/DecoderTypes.h>
-#include <Zydis/Mnemonic.h>
+#include <Zydis/TWMnemonic.h>
 #include <Zydis/Status.h>
 
 #ifdef __cplusplus

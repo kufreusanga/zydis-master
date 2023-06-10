@@ -28,7 +28,7 @@
 #define ZYDIS_INTERNAL_ENCODERDATA_H
 
 #include <Zycore/Defines.h>
-#include <Zydis/Mnemonic.h>
+#include <Zydis/TWMnemonic.h>
 #include <Zydis/SharedTypes.h>
 
 /**
